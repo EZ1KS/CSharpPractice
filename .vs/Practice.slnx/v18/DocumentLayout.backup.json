@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Practice\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1E99A9-504D-4580-967C-60C379791FCA}|Task4_SmartStack\\Task4_SmartStack.csproj|z:\\practice\\practice\\task4_smartstack\\smartstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1E99A9-504D-4580-967C-60C379791FCA}|Task4_SmartStack\\Task4_SmartStack.csproj|solutionrelative:task4_smartstack\\smartstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1E99A9-504D-4580-967C-60C379791FCA}|Task4_SmartStack\\Task4_SmartStack.csproj|z:\\practice\\practice\\task4_smartstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1E99A9-504D-4580-967C-60C379791FCA}|Task4_SmartStack\\Task4_SmartStack.csproj|solutionrelative:task4_smartstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7383E3E8-037D-4F34-9F77-6C7E392E96E0}|Task3_Product\\Task3_Product.csproj|z:\\practice\\practice\\task3_product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7383E3E8-037D-4F34-9F77-6C7E392E96E0}|Task3_Product\\Task3_Product.csproj|solutionrelative:task3_product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7383E3E8-037D-4F34-9F77-6C7E392E96E0}|Task3_Product\\Task3_Product.csproj|z:\\practice\\practice\\task3_product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7383E3E8-037D-4F34-9F77-6C7E392E96E0}|Task3_Product\\Task3_Product.csproj|solutionrelative:task3_product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB0A58-EA3A-4F4E-9D11-0C52E56BCC34}|Task2_Diamond\\Task2_Diamond.csproj|z:\\practice\\practice\\task2_diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBB0A58-EA3A-4F4E-9D11-0C52E56BCC34}|Task2_Diamond\\Task2_Diamond.csproj|solutionrelative:task2_diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB0A58-EA3A-4F4E-9D11-0C52E56BCC34}|Task2_Diamond\\Task2_Diamond.csproj|z:\\practice\\practice\\task2_diamond\\diamonddrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBB0A58-EA3A-4F4E-9D11-0C52E56BCC34}|Task2_Diamond\\Task2_Diamond.csproj|solutionrelative:task2_diamond\\diamonddrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B709299-DAB1-93D0-295D-2EE2486F51BC}|Task1_CompoundInterest\\Task1_CompoundInterest.csproj|z:\\practice\\practice\\task1_compoundinterest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B709299-DAB1-93D0-295D-2EE2486F51BC}|Task1_CompoundInterest\\Task1_CompoundInterest.csproj|solutionrelative:task1_compoundinterest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B709299-DAB1-93D0-295D-2EE2486F51BC}|Task1_CompoundInterest\\Task1_CompoundInterest.csproj|z:\\practice\\practice\\task1_compoundinterest\\compoundinterestcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B709299-DAB1-93D0-295D-2EE2486F51BC}|Task1_CompoundInterest\\Task1_CompoundInterest.csproj|solutionrelative:task1_compoundinterest\\compoundinterestcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartStack.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task4_SmartStack\\SmartStack.cs",
+              "RelativeDocumentMoniker": "Task4_SmartStack\\SmartStack.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task4_SmartStack\\SmartStack.cs*",
+              "RelativeToolTip": "Task4_SmartStack\\SmartStack.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:00:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task4_SmartStack\\Program.cs",
+              "RelativeDocumentMoniker": "Task4_SmartStack\\Program.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task4_SmartStack\\Program.cs",
+              "RelativeToolTip": "Task4_SmartStack\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:00:05.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task3_Product\\Product.cs",
+              "RelativeDocumentMoniker": "Task3_Product\\Product.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task3_Product\\Product.cs",
+              "RelativeToolTip": "Task3_Product\\Product.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:54:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task3_Product\\Program.cs",
+              "RelativeDocumentMoniker": "Task3_Product\\Program.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task3_Product\\Program.cs",
+              "RelativeToolTip": "Task3_Product\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAA6wHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:53:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiamondDrawer.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task2_Diamond\\DiamondDrawer.cs",
+              "RelativeDocumentMoniker": "Task2_Diamond\\DiamondDrawer.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task2_Diamond\\DiamondDrawer.cs",
+              "RelativeToolTip": "Task2_Diamond\\DiamondDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:47:11.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task2_Diamond\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_Diamond\\Program.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task2_Diamond\\Program.cs",
+              "RelativeToolTip": "Task2_Diamond\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:45:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompoundInterestCalculator.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task1_CompoundInterest\\CompoundInterestCalculator.cs",
+              "RelativeDocumentMoniker": "Task1_CompoundInterest\\CompoundInterestCalculator.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task1_CompoundInterest\\CompoundInterestCalculator.cs",
+              "RelativeToolTip": "Task1_CompoundInterest\\CompoundInterestCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:37:10.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Practice\\Practice\\Task1_CompoundInterest\\Program.cs",
+              "RelativeDocumentMoniker": "Task1_CompoundInterest\\Program.cs",
+              "ToolTip": "Z:\\Practice\\Practice\\Task1_CompoundInterest\\Program.cs",
+              "RelativeToolTip": "Task1_CompoundInterest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:32:36.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 605,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

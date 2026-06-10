@@ -1,0 +1,14 @@
+Z:\Practice\Practice\Task3_Product\bin\Debug\net8.0\Task3_Product.exe
+Z:\Practice\Practice\Task3_Product\bin\Debug\net8.0\Task3_Product.deps.json
+Z:\Practice\Practice\Task3_Product\bin\Debug\net8.0\Task3_Product.runtimeconfig.json
+Z:\Practice\Practice\Task3_Product\bin\Debug\net8.0\Task3_Product.dll
+Z:\Practice\Practice\Task3_Product\bin\Debug\net8.0\Task3_Product.pdb
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.AssemblyInfoInputs.cache
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.AssemblyInfo.cs
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.csproj.CoreCompileInputs.cache
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.dll
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\refint\Task3_Product.dll
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.pdb
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.genruntimeconfig.cache
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\ref\Task3_Product.dll

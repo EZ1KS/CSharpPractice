@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Collections/">
+    <Project Path="Task4_SmartStack/Task4_SmartStack.csproj" Id="ba1e99a9-504d-4580-967c-60c379791fca" />
+  </Folder>
+  <Folder Name="/DataTypes/">
+    <Project Path="Task1_CompoundInterest/Task1_CompoundInterest.csproj" />
+    <Project Path="Task2_Diamond/Task2_Diamond.csproj" Id="bdbb0a58-ea3a-4f4e-9d11-0c52e56bcc34" />
+  </Folder>
+  <Folder Name="/OOP/">
+    <Project Path="Task3_Product/Task3_Product.csproj" Id="7383e3e8-037d-4f34-9f77-6c7e392e96e0" />
+  </Folder>
+</Solution>

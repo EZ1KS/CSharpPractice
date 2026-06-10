@@ -1,0 +1,14 @@
+Z:\Practice\Practice\Task4_SmartStack\bin\Debug\net8.0\Task4_SmartStack.exe
+Z:\Practice\Practice\Task4_SmartStack\bin\Debug\net8.0\Task4_SmartStack.deps.json
+Z:\Practice\Practice\Task4_SmartStack\bin\Debug\net8.0\Task4_SmartStack.runtimeconfig.json
+Z:\Practice\Practice\Task4_SmartStack\bin\Debug\net8.0\Task4_SmartStack.dll
+Z:\Practice\Practice\Task4_SmartStack\bin\Debug\net8.0\Task4_SmartStack.pdb
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.AssemblyInfoInputs.cache
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.AssemblyInfo.cs
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.csproj.CoreCompileInputs.cache
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.dll
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\refint\Task4_SmartStack.dll
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.pdb
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.genruntimeconfig.cache
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\ref\Task4_SmartStack.dll

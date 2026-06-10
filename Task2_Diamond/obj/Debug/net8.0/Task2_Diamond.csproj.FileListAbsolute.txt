@@ -1,0 +1,14 @@
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.AssemblyInfoInputs.cache
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.AssemblyInfo.cs
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.csproj.CoreCompileInputs.cache
+Z:\Practice\Practice\Task2_Diamond\bin\Debug\net8.0\Task2_Diamond.exe
+Z:\Practice\Practice\Task2_Diamond\bin\Debug\net8.0\Task2_Diamond.deps.json
+Z:\Practice\Practice\Task2_Diamond\bin\Debug\net8.0\Task2_Diamond.runtimeconfig.json
+Z:\Practice\Practice\Task2_Diamond\bin\Debug\net8.0\Task2_Diamond.dll
+Z:\Practice\Practice\Task2_Diamond\bin\Debug\net8.0\Task2_Diamond.pdb
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.dll
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\refint\Task2_Diamond.dll
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.pdb
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.genruntimeconfig.cache
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\ref\Task2_Diamond.dll

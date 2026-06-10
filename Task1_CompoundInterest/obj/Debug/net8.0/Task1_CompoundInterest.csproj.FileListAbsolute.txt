@@ -1,0 +1,14 @@
+Z:\Practice\Practice\Task1_CompoundInterest\bin\Debug\net8.0\Task1_CompoundInterest.exe
+Z:\Practice\Practice\Task1_CompoundInterest\bin\Debug\net8.0\Task1_CompoundInterest.deps.json
+Z:\Practice\Practice\Task1_CompoundInterest\bin\Debug\net8.0\Task1_CompoundInterest.runtimeconfig.json
+Z:\Practice\Practice\Task1_CompoundInterest\bin\Debug\net8.0\Task1_CompoundInterest.dll
+Z:\Practice\Practice\Task1_CompoundInterest\bin\Debug\net8.0\Task1_CompoundInterest.pdb
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.AssemblyInfoInputs.cache
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.AssemblyInfo.cs
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.csproj.CoreCompileInputs.cache
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.dll
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\refint\Task1_CompoundInterest.dll
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.pdb
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.genruntimeconfig.cache
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\ref\Task1_CompoundInterest.dll
