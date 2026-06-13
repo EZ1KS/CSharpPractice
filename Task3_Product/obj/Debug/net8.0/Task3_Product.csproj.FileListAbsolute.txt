@@ -12,3 +12,4 @@ Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\refint\Task3_Product.dll
 Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.pdb
 Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.genruntimeconfig.cache
 Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\ref\Task3_Product.dll
+Z:\Practice\Practice\Task3_Product\obj\Debug\net8.0\Task3_Product.sourcelink.json

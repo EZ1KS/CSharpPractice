@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task4_SmartStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b473135940687f4901776e4e7d439674d91192e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task4_SmartStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task4_SmartStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

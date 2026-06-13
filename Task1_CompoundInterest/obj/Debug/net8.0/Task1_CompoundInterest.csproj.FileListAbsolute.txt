@@ -12,3 +12,4 @@ Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\refint\Task1_Compou
 Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.pdb
 Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.genruntimeconfig.cache
 Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\ref\Task1_CompoundInterest.dll
+Z:\Practice\Practice\Task1_CompoundInterest\obj\Debug\net8.0\Task1_CompoundInterest.sourcelink.json

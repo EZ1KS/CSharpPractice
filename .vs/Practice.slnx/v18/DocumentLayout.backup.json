@@ -58,9 +58,9 @@
               "Title": "SmartStack.cs",
               "DocumentMoniker": "Z:\\Practice\\Practice\\Task4_SmartStack\\SmartStack.cs",
               "RelativeDocumentMoniker": "Task4_SmartStack\\SmartStack.cs",
-              "ToolTip": "Z:\\Practice\\Practice\\Task4_SmartStack\\SmartStack.cs*",
-              "RelativeToolTip": "Task4_SmartStack\\SmartStack.cs*",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "ToolTip": "Z:\\Practice\\Practice\\Task4_SmartStack\\SmartStack.cs",
+              "RelativeToolTip": "Task4_SmartStack\\SmartStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T09:00:44.715Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Task4_SmartStack\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T09:00:05.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T09:00:05.493Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Task3_Product\\Product.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAqwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T08:54:32.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T08:54:32.758Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Task3_Product\\Program.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAA6wHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T08:53:53.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T08:53:53.817Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Task2_Diamond\\DiamondDrawer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T08:47:11.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T08:47:11.435Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Task2_Diamond\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T08:45:53.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T08:45:53.348Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "Task1_CompoundInterest\\CompoundInterestCalculator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T08:37:10.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T08:37:10.896Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "Task1_CompoundInterest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T08:32:36.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T08:32:36.763Z"
             }
           ]
         },

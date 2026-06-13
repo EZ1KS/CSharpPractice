@@ -12,3 +12,4 @@ Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\refint\Task2_Diamond.dll
 Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.pdb
 Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.genruntimeconfig.cache
 Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\ref\Task2_Diamond.dll
+Z:\Practice\Practice\Task2_Diamond\obj\Debug\net8.0\Task2_Diamond.sourcelink.json

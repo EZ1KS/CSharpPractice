@@ -12,3 +12,4 @@ Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\refint\Task4_SmartStack.d
 Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.pdb
 Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.genruntimeconfig.cache
 Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\ref\Task4_SmartStack.dll
+Z:\Practice\Practice\Task4_SmartStack\obj\Debug\net8.0\Task4_SmartStack.sourcelink.json
